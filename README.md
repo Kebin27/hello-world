@@ -1,4 +1,4 @@
 # hello-world
-First repository...betting to know GitHub
+First repository...getting to know GitHub
 
 I have some green mushrooms which might be blue after all
